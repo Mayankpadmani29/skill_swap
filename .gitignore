@@ -37,3 +37,10 @@ pids
 *.pid
 *.seed
 *.pid.lock
+
+# Sensitive files
+gclient.txt
+
+# Backup files
+* copy*
+.git copy/
